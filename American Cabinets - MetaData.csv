@@ -1,0 +1,61 @@
+Field,DataType,Description
+Appointments Sheet,,
+Key,Int,"Ascending index, original order of rows"
+Administration,Text,Name of President serving under
+Party,Text,Name of administration political party
+Department,Text,Department of cabinet position
+Name,Text,Name of cabinet appointment
+LastName,Text,Last name of cabinet appointment
+ServiceStart,Date,"Start of cabinet appointment, full date"
+ServiceEnd,Date,"End of cabinet appointment, full date"
+DeptScandalFlag,Boolean,"1=Yes, 0=No"
+ScandalFlag,Boolean,"1=Yes, 0=No"
+ScandalDesc,Text,Brief description of scandal
+EduDesc,Text,Brief description of education attained
+Bachelors,Int,Number of Bachelor degrees earned
+Masters,Int,Number of Master's degrees earned
+MD,Int,Number of Medical degrees earned
+Law,Int,Number of Law degrees earned/licensed to practice law
+PhD,Int,Number of Doctorate degrees earned
+MilitaryService,Text,Rank of military service achieved
+MilitaryDatesServed,Text,War or dates of service in military
+MilitaryBranch,Text,Branch of military served
+Gender,Boolean,"1=Male, 0=Female"
+ForeignBorn,Boolean,"1=Male, 0=Female"
+Minority,Boolean,"1=Minority, 0=Not Minority"
+DiedOffice,Boolean,"1=Died in office, 0=Did not die in office"
+SenateVotesFor,Int,"Number of Yes final Senate confirmation votes, vv=Voice Vote, pa=Continued from previous administration, pp=Serves at the pleasure of the president, eo=Elected official, uc=Unanimous consent, R=Recess appointment, acting=Acting administrator, nr=Not recorded"
+SenateVotesAgainst,Int,"Number of No final Senate confirmation votes, vv=Voice Vote, pa=Continued from previous administration, pp=Serves at the pleasure of the president, eo=Elected official, uc=Unanimous consent, R=Recess appointment, acting=Acting administrator, nr=Not recorded"
+NotesDiscrepancies,Text,"Notes on discrepancies in original sources, unusual events surrounding the appointment"
+,,
+Positions Sheet,,
+Rating,Int,"Scale 1-10, 1=Worse, 10=Best"
+Department,Text,Department of cabinet position
+Appointment,Text,"Name of cabinet position, Vice President used as catch-all for administration scandals"
+Established,Year,Year position became cabinet level
+Removed,Year,Year position was removed from cabinet
+Cabinet Level,Boolean,"1=Yes, 0=No"
+FormerName,Text,Previous name of cabinet position
+FormerDateRenamed,Year,Year of rename to current name
+RenamedTo,Text,Subsequent name of cabinet position
+DateRenamed,Year,Year of rename to subsequent name
+,,
+,,
+Primary Sources (not exhaustive),,
+"Garcia, Rogelio, Senate Action on Cabinet Nominations, 1789-1985, Congressional Research Service, report #85-1120",,
+"Grossman, Mark, Encyclopedia of the United States Cabinet, Santa Barbara, California: ABC-Clio, 2000",,
+"Sobel, Robert, and Sicilia, David B., The United States Executive Branch, A biographical directory of heads of state and cabinet officials, Greenwood Press, 1990",,
+"Byrd, Robert C., The Senate, 1789-1989, Washington: GPO, 1988",,
+,,
+,,
+Appointment categories not listed in Appointments Tab,,
+Confirmed by the Senate but declined to serve,,
+Nomination withdrawn,,
+Nomination failed confirmation by the Senate,,
+Interim appointments during suspension (cf. Secretary of War Stanton in 1867),,
+No action taken by the Senate to confirm nomination,,
+Cabinet-level positions which are not official Cabinet appointment (e.g. Ambassador to the United Nations),,
+,,
+"Note that multiple entries in one field are separated by semicolons ("";"").",,
+,,
+Released under a Creative Commons Attribution License (CC BY 3.0 US) https://creativecommons.org/licenses/by/3.0/us/,,

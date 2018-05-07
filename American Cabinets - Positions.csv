@@ -1,0 +1,38 @@
+Department,Appointment,Established,Removed,CabinetLevel,FormerName,FormerDateRenamed,RenamedTo,DateRenamed
+Bureau of the Budget,Director of the Bureau of the Budget,1939,1970,0,,,Office of Management and Budget,1970
+Central Intelligence Agency,Director of Central Intelligence,1995,2001,1,,,,
+Council of Economic Advisers,Chair of the Council of Economic Advisers,1946,,0,,,,
+Department of Agriculture,Secretary of Agriculture,1862,,1,,,,
+Department of Commerce,Secretary of Commerce,1903,,1,Secretary of Commerce and Labor,1913,,
+Department of Commerce and Labor,Secretary of Commerce and Labor,1903,1913,1,,,"Secretary of Commerce, Secretary of Labor",1913
+Department of Defense,Secretary of Defense,1947,,1,Secretary of War,1949,,
+Department of Education,Secretary of Education,1979,,1,,,,
+Department of Energy,Secretary of Energy,1977,,1,,,,
+Department of Health and Human Services,Secretary of Health and Human Services,1953,,1,,,,
+"Department of Health, Education, and Welfare","Secretary of Health, Education, and Welfare",1953,1979,1,,,Secretary of Health and Human Services,1979
+Department of Homeland Security,Secretary of Homeland Security,2003,,1,,,,
+Department of Housing and Urban Development,Secretary of Housing and Urban Development,1965,,1,,,,
+Department of Justice,Attorney General,1870,,1,,,,
+Department of Labor,Secretary of Labor,1913,,1,Secretary of Commerce and Labor,1913,,
+Department of State,Secretary of State,1781,,1,Secretary of Foreign Affairs,1789,,
+Department of State,Secretary of Foreign Affairs,1781,1789,1,,,Secretary of State,1789
+Department of the Air Force,Secretary of the Air Force,1947,1949,1,,,Secretary of Defense,1949
+Department of the Army,Secretary of the Army,1947,1949,1,,,Secretary of Defense,1949
+Department of the Interior,Secretary of the Interior,1849,,1,,,,
+Department of the Navy,Secretary of the Navy,1798,1949,1,,,Secretary of Defense,1949
+Department of the Treasury,Secretary of the Treasury,1789,,1,,,,
+Department of Transportation,Secretary of Transportation,1966,,1,,,,
+Department of Veterans Affairs,Secretary of Veterans' Affairs,1989,,1,,,,
+Department of War ,Secretary of War,1789,1947,1,,,,
+Department of War ,Secretary of the Army,1947,1949,1,Secretary of War,1947,Secretary of Defense,1949
+Environmental Protection Agency,Administrator of the Environmental Protection Agency,1970,,0,,,,
+Executive,Vice President,1789,,1,,,,
+Federal Emergency Management Agency,Director of the Federal Emergency Management Agency,1996,2001,1,,,,
+National Military Establishment,Secretary of Defense,1947,1949,1,,,Department of Defense,1949
+Office of Management and Budget,Director of the Office of Management and Budget,1970,,0,Bureau of the Budget,1970,,
+Office of National Drug Control Policy,Director of the Office of National Drug Control Policy ,1993,2009,1,,,,
+Office of the United States Trade Representative,Trade Representative,1962,,0,,,,
+Post Office Department,Postmaster General,1829,1971,1,,,United States Postal Service,1971
+Small Business Administration,Administrator of the Small Business Administration,1953,,0,,,,
+United Nations,Ambassador to the United Nations,1945,,0,,,,
+White House,White House Chief of Staff,1961,,0,Assistant to the President,1961,,

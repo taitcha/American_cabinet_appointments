@@ -1,0 +1,6 @@
+Key,Administration,Party,Department,Name,LastName,ServiceStart,ServiceEnd,DeptScandalFlag,ScandalFlag,ScandalDesc,EduDesc,Bachelors,Masters,MD,Law,Doctorate,MilitaryService,MilitaryDatesServed,MilitaryBranch,Gender,ForeignBorn,Minority,DiedOffice,SenateVotesFor,SenateVotesAgainst,NotesDiscrepancies,DateDeclined
+1,Adams,Federalist,Justice,Theophilus Parsons,Parsons,N/A Declined,N/A Declined,,,,Harvard University (grad.),1,,,1,,,,,1,0,0,0,nr,nr,Declined on 2/20/1801,2/20/1801
+2,Jefferson,Democratic-Republican,Justice,Robert Smith,Smith,N/A Declined,N/A Declined,,,,Princeton University (grad.),1,,,1,,,,,1,0,0,0,nr,nr,Declined on 3/2/1805,3/2/1805
+3,Jefferson,Democratic-Republican,Secretary of the Navy,Jacob Crowninshield,Crowninshield,N/A Declined,N/A Declined,,,,no college,,,,,,,,,1,0,0,0,nr,nr,Declined on 3/2/1805 due to ill health,3/2/1805
+4,Tyler,Whig,Secretary of War,John McLean,McLean,N/A Declined,N/A Declined,,,,Harvard University (grad.),1,,,1,,,,,1,0,0,0,nr,nr,Declined on 9/13/1841,9/13/1841
+5,Arthur,Republican,Secretary of the Treasury,Edwin D. Morgan,Morgan,N/A Declined,N/A Declined,,,,no college,,,,,,maj. gen.,1861-1863,Army,1,0,0,0,nr,nr,Declined on 10/27/1881,10/27/1881

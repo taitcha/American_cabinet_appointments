@@ -1,0 +1,12 @@
+Key,Administration,Party,Department,Name,LastName,ServiceStart,ServiceEnd,DeptScandalFlag,ScandalFlag,ScandalDesc,EduDesc,Bachelors,Masters,MD,Law,Doctorate,MilitaryService,MilitaryDatesServed,MilitaryBranch,Gender,ForeignBorn,Minority,DiedOffice,SenateVotesFor,SenateVotesAgainst,NotesDiscrepancies,DateRejected
+1,Jackson,Democrat,Secretary of the Treasury,Roger B. Taney,Taney,N/A Rejected,N/A Rejected,,,,Dickinson College (BA),1,,,1,,,,,1,0,0,0,18,28,Rejected on 6/24/1834,6/24/1834
+2,Tyler,Whig,Secretary of the Treasury,Caleb Cushing,Cushing,N/A Rejected,N/A Rejected,,,,Harvard University (grad.),1,,,1,,brig. gen.,Mexican War,Army,1,0,0,0,19,27,Rejected on 3/3/1843,3/3/1843
+3,Tyler,Whig,Secretary of the Treasury,Caleb Cushing,Cushing,N/A Rejected,N/A Rejected,,,,Harvard University (grad.),1,,,1,,brig. gen.,Mexican War,Army,1,0,0,0,10,27,Rejected on 3/3/1843,3/3/1843
+4,Tyler,Whig,Secretary of the Treasury,Caleb Cushing,Cushing,N/A Rejected,N/A Rejected,,,,Harvard University (grad.),1,,,1,,brig. gen.,Mexican War,Army,1,0,0,0,2,29,Rejected on 3/3/1843,3/3/1843
+5,Tyler,Whig,Secretary of the Navy,David Henshaw,Henshaw,N/A Rejected,N/A Rejected,,,,no college,,,,,,,,,1,0,0,0,8,34,Rejected on 1/15/1844,1/15/1844
+6,Tyler,Whig,Secretary of War,James M. Porter,Porter,N/A Rejected,N/A Rejected,,,,read law,,,,1,,2nd lt.; col.,War of 1812; War of 1812,Militia/National Guard; Army,1,0,0,0,3,38,Rejected on 1/30/1844,1/30/1844
+7,Tyler,Democrat,Secretary of the Treasury,James S. Green,Green,N/A Rejected,N/A Rejected,,,,read law,,,,1,,,,,1,0,0,0,nr,nr,Rejected on 6/15/1844,6/15/1844
+8,Andrew Johnson,National Union,Justice,Henry Stanbery,Stanbery,N/A Rejected,N/A Rejected,,,,Washington & Jefferson College (grad.),1,,,1,,,,,1,0,0,0,11,29,Rejected on 6/2/1868,6/2/1868
+9,Coolidge,Republican,Justice,Charles B. Warren,Warren,N/A Rejected,N/A Rejected,,,,"University of Michigan, Ann Arbor (BA)",1,,,,,lt. col.,World War I,Army,1,0,0,0,39,41,Rejected on 3/10/1925,3/10/1925
+10,Coolidge,Republican,Justice,Charles B. Warren,Warren,N/A Rejected,N/A Rejected,,,,"University of Michigan, Ann Arbor (BA)",1,,,,,lt. col.,World War I,Army,1,0,0,0,39,46,Rejected on 3/16/1925,3/16/1925
+11,Eisenhower,Republican,Secretary of Commerce,Lewis B. Strauss,Strauss,N/A Rejected,N/A Rejected,,,,no college,,,,,,,,,1,0,0,0,46,49,Rejected on 6/19/1959,6/19/1959
