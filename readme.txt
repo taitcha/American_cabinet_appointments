@@ -47,7 +47,7 @@ Nomination withdrawn
 Nomination failed confirmation by the Senate
 Interim appointments during suspension (cf. Secretary of War Stanton in 1867)
 No action taken by the senate to confirm nomination
-Cabinet-level positions which are not official cabinet appointment (e.g. Ambassador to the United Nations)
+Cabinet-level positions which are not official cabinet appointments (e.g. Ambassador to the United Nations)
 
 ***
 
@@ -56,3 +56,5 @@ Note that multiple entries in one field are separated by semicolons (";").
 ***
 
 Released under a Creative Commons Attribution License (CC BY 3.0 US) https://creativecommons.org/licenses/by/3.0/us/
+
+Chamberlain, Tait. 2020. UNITED STATES OF AMERICA CABINET APPOINTMENTS DATASET. GitHub. https://github.com/taitcha/American_cabinet_appointments
